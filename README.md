@@ -1,0 +1,1 @@
+# staticcvtask1
