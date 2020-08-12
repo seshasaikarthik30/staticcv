@@ -1,1 +1,1 @@
-# staticcvtask1
+# staticcv
